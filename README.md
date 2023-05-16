@@ -5,4 +5,5 @@ We're always looking for PhD Students and Postdocs! For more info see: https://d
 # Measurement
 
 # Qiskit Metal Extensions
-- [Post Production](https://github.com/LFL-Lab/metal-post) - Going from Qiskit Metal to GDS file ready for fabrication.
+- [Pre-Simulated Library](https://github.com/LFL-Lab/metal-library) - Parametric designing extension.
+- [Post Processing](https://github.com/LFL-Lab/metal-post) - Going from Qiskit Metal to GDS file ready for fabrication.
