@@ -5,7 +5,7 @@ We're always looking for PhD Students and Postdocs! For more info see: https://d
 # Measurement
 
 # Qiskit Metal Extensions
-- [Qiskit Metal Add-ons](https://github.com/LFL-Lab/metal-ext)
+- [Post Production](https://github.com/LFL-Lab/metal-post)
   - MIT LL / In-House Standardized Components
   - Auto Airbridging
 
