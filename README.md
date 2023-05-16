@@ -1,5 +1,6 @@
-### Levenson-Falk Labs
-We're always looking for PhD Students and Postdocs! For more info: https://dornsife.usc.edu/labs/lfl/
+### Levenson-Falk Labs ✌️
+Experimental Quantum Computing Lab at the University of Southern California. GitHub maintained by current grad/undergrad researchers.
+We're always looking for PhD Students and Postdocs! For more info see: https://dornsife.usc.edu/labs/lfl/
 
 # Measurement
 
